@@ -1,0 +1,21 @@
+1|Bulbasaur|Grass/Poison|Grass|Poison|A strange seed was planted on its back at birth.|1.png
+2|Ivysaur|Grass/Poison|Grass|Poison|When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.|2.png
+3|Venusaur|Grass/Poison|Grass|Poison|The plant on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.|3.png
+4|Charmander|Fire|Fire||Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.|4.png
+5|Charmeleon|Fire|Fire||When it swings its burning tail, it elevates the temperature to unbearably high levels.|5.png
+6|Charizard|Fire/Flying|Fire|Flying|It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.|6.png
+7|Squirtle|Water|Water||After birth, its back swells and hardens into a shell.|7.png
+8|Wartortle|Water|Water||It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.|8.png
+9|Blastoise|Water|Water||It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.|9.png
+10|Caterpie|Bug|Bug||Its voracious appetite compels it to devour leaves bigger than itself without hesitation.|10.png
+11|Metapod|Bug|Bug||It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.|11.png
+12|Butterfree|Bug/Flying|Bug|Flying|In battle, it flaps its wings at great speed to release highly toxic dust into the air.|12.png
+13|Weedle|Bug/Poison|Bug|Poison|Often found in forests, eating leaves. It has a sharp venomous stinger on its head.|13.png
+14|Kakuna|Bug/Poison|Bug|Poison|Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.|14.png
+15|Beedrill|Bug/Poison|Bug|Poison|It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.|15.png
+16|Pidgey|Normal/Flying|Normal|Flying|It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.|16.png
+17|Pidgeotto|Normal/Flying|Normal|Flying|This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.|17.png
+18|Pidgeot|Normal/Flying|Normal|Flying|By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.|18.png
+19|Rattata|Normal|Normal||Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.|19.png
+20|Raticate|Normal|Normal||Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.|20.png
+21|Spearow|Normal/Flying|Normal|Flying|It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.|21.png
